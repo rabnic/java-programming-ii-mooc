@@ -1,0 +1,9 @@
+# Ignore the folders
+target/
+tmc/
+
+# tmcproject and pom files
+.tmcproject.yml
+.tmcproject.json
+pom.xml
+.checkstyle.xml
